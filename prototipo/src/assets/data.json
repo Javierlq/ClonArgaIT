@@ -1,0 +1,80 @@
+[
+    {
+        "id": 0,
+        "nombre": "Proyecto de gestión de proyectos",
+        "fechainicio": "2024-04-04 12:13:14",
+        "fechatermino": "",
+        "tiempoinactividad": "2024-06-15 12:14:00.000000",
+        "Empresa": {
+            "rut": "00000000-0",
+            "nombre": "Arga IT"
+        },
+        "Estados": [
+            {
+                "id": 0,
+                "nombre": "En desarrollo",
+                "fechainicio": "2024-04-04 12:13:14",
+                "fechatermino": ""
+            },
+            {
+                "id": 1,
+                "nombre": "En desarrollo",
+                "fechainicio": "2024-04-04 12:13:14",
+                "fechatermino": ""  
+            }
+        ],
+        "Cotizaciones": [
+            {
+                "id": 0,
+                "Nombre": "Sistema Gestion Proyectos",
+                "Version": "1",
+                "Estado": "Aceptada"
+            }
+        ],
+        "Hitos": [
+            {
+                "id": 0,
+                "nombre": "Hito",
+                "fechainicio": "2024-04-04 12:13:14",
+                "fechatermino": "fechatermino",
+                "descripcion": "descripcion"
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "nombre": "Proyecto test",
+        "fechainicio": "2024-04-04 12:13:14",
+        "fechatermino": "",
+        "tiempoinactividad": "2024-06-15 12:14:00.000000",
+        "Empresa": {
+            "rut": "00000000-0",
+            "nombre": "Empresa test"
+        },
+        "Estados": [
+            {
+                "id": 0,
+                "nombre": "En desarrollo",
+                "fechainicio": "2024-04-04 12:13:14",
+                "fechatermino": ""
+            }
+        ],
+        "Cotizaciones": [
+            {
+                "id": 0,
+                "Nombre": "test",
+                "Version": "1",
+                "Estado": "Aceptada"
+            }
+        ],
+        "Hitos": [
+            {
+                "id": 0,
+                "nombre": "Hito test",
+                "fechainicio": "2024-04-04 12:13:14",
+                "fechatermino": "fechatermino",
+                "descripcion": "descripcion"
+            }
+        ]
+    }
+]

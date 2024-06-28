@@ -1,0 +1,20 @@
+[
+    {
+        "nombre": "Javier",
+        "rut": "20272418-3",
+        "apellidoPat": "Peralta",
+        "apellidoMat": "Brito",
+        "correo": "javier@gmail.com",
+        "empresa": "1",
+        "contraseña": "20272418"
+    },
+    {
+        "nombre": "Camila",
+        "rut": "20847499-5",
+        "apellidoPat": "Barrera",
+        "apellidoMat": "Alfaro",
+        "correo": "camila@gmail.com",
+        "empresa": "2",
+        "contraseña": "20847499"
+    }
+]

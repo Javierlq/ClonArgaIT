@@ -1,0 +1,23 @@
+[
+    {
+        "id": "1",
+        "nombre": "Sociedad Anónima Arga IT",
+        "nombre_fantasia": "Arga IT",
+        "telefono": "812738123",
+        "correo": "asdk@gmail.com"
+    },
+    {
+        "id": "2",
+        "nombre": "Empresa de yogures Ltd",
+        "nombre_fantasia": "Pedro Perez",
+        "telefono": "12312354",
+        "correo": "uuu@gmail.com"
+    },
+    {
+        "id": "3",
+        "nombre": "Abyss S.A.",
+        "nombre_fantasia": "Abyss",
+        "telefono": "92998166",
+        "correo": "abyss@gmail.com"
+    }
+]

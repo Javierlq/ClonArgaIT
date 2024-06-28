@@ -1,0 +1,5 @@
+1.- Asegurarse de tener todas las dependencias instaladas. Verificar que se está en la carpeta "prototipo" y usar el comando 'npm i' para instalar dependencias e instalar react-bootstrap con el comando 'npm install react-bootstrap'
+2.- Una vez instaladas las dependencias y react-bootstrap, correr la página con el comando 'npm start'.
+3.- El sistema cuenta con 2 usuarios para inicio de sesión. Las credenciales son: User 1( Correo: javier@gmail.com Contraseña: 20272418) User 2( Correo: camila@gmail.com Contraseña: 20847499)
+4.- Al ser un prototipo, no contamos con manejo de sesiones. Todos los datos son almacenados en la memoria de la página, por lo que no se verán cambios en los archivos .json.
+5.- Observación: El css de la página EditCustomer.js no se encuentra ajustado, por lo que su error de visualización es normal.
